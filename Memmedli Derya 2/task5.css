@@ -1,0 +1,32 @@
+div{
+    width: 1000px;
+    height: max-content;
+}
+
+
+.div1{
+    background-color: aqua;
+    height: 60px;
+    
+}
+.divleft{
+    background-color: blue;
+    height: 300px;
+    width: 250px;
+    float: left;
+    margin: 0%;
+    
+}
+.divright{
+    background-color: rgb(226, 156, 71);
+    margin: 0%;
+    height: 300px;
+    width: 750px;
+    
+}
+.divlast{
+    background-color: brown;
+    margin: 0%;
+    height: 60px;
+    width: 1000px;
+}

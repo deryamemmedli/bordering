@@ -1,0 +1,36 @@
+.div1 {
+margin-top: 30px;
+margin-right: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+border: 5px solid rgb(212, 74, 182);
+width: 300px;
+height: 100px;
+background-color: green;
+}
+.div2 {
+   margin-top: 1%;
+   border: 5px solid rgb(212, 74, 182);
+   width: 200px;
+   height: 80px;
+   background-color: green;
+}
+.divbig {
+margin-top: 30px;
+margin-right: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+background-color: orangered;
+width: 200px;
+height: 35px;
+padding-right: 40px;
+border: 2px solid rgb(12, 0, 9);
+}
+.divlit {
+margin: 30px;
+background-color: orangered;
+border: 2px solid rgb(12, 0, 9);
+width: 100px;
+height: 20px;
+padding-right: 40px;
+}
